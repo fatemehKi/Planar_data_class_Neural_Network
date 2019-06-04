@@ -1,4 +1,4 @@
-# Planar_data_class_Neural_Networkr
+# Planar_data_class_Neural_Network
 
 Reminder: The general methodology to build a Neural Network is to:
 
